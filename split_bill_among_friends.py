@@ -1,9 +1,9 @@
-```Split Bill Among Friends
+"""Split Bill Among Friends
 Create a program to split the restaurant bill among friends.
 
 Get an integer input for the total number of friends and assign it to the total_friends variable.
 Get an integer input for the restaurant bill and assign it to the bill variable.
-Calculate the tax amount, which is 20% of the bill.```
+Calculate the tax amount, which is 20% of the bill"""
 
 # Replace ___ with your code
 
